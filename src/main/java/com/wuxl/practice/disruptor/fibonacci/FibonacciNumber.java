@@ -1,4 +1,4 @@
-package com.wxiaolon.practice.disruptor;
+package com.wuxl.practice.disruptor.fibonacci;
 
 public class FibonacciNumber {
     private Integer previous;

@@ -1,4 +1,4 @@
-package com.wxiaolon.practice.disruptor;
+package com.wuxl.practice.disruptor.fibonacci;
 
 import com.lmax.disruptor.EventHandler;
 import com.lmax.disruptor.RingBuffer;
